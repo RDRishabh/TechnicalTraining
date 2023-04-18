@@ -19,7 +19,6 @@ class Solution {
             sum=sum+Math.min(left[i],right[i])-height[i];
          }
         return sum;
-        
     }
 }
 
